@@ -1,2 +1,0 @@
-# PikachuMeme
-Created with CodeSandbox
